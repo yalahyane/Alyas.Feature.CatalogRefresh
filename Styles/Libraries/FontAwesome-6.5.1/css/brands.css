@@ -1,0 +1,59 @@
+.fab,
+.fa-brands {
+  font-weight: 400;
+}
+
+:root, :host {
+  --fa-style-family-brands: 'Font Awesome 6 Brands';
+  --fa-font-brands: normal 400 1em/1 'Font Awesome 6 Brands'; }
+
+@font-face {
+  font-family: 'Font Awesome 6 Brands';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../webfonts/fa-brands-400.woff2") format("woff2"), url("../webfonts/fa-brands-400.ttf") format("truetype"); }
+
+.fa-amazon::before { content: "\f270"; }
+.fa-amazon-pay::before { content: "\f42c"; }
+.fa-app-store::before { content: "\f36f"; }
+.fa-app-store-ios::before { content: "\f370"; }
+.fa-apple::before { content: "\f179"; }
+.fa-apple-pay::before { content: "\f415"; }
+.fa-btc::before { content: "\f15a"; }
+.fa-cc-amazon-pay::before { content: "\f42d"; }
+.fa-cc-amex::before { content: "\f1f3"; }
+.fa-cc-apple-pay::before { content: "\f416"; }
+.fa-cc-diners-club::before { content: "\f24c"; }
+.fa-cc-discover::before { content: "\f1f2"; }
+.fa-cc-jcb::before { content: "\f24b"; }
+.fa-cc-mastercard::before { content: "\f1f1"; }
+.fa-cc-paypal::before { content: "\f1f4"; }
+.fa-cc-stripe::before { content: "\f1f5"; }
+.fa-cc-visa::before { content: "\f1f0"; }
+.fa-facebook::before { content: "\f09a"; }
+.fa-facebook-f::before { content: "\f39e"; }
+.fa-facebook-square::before { content: "\f082"; }
+.fa-google::before { content: "\f1a0"; }
+.fa-google-pay::before { content: "\e079"; }
+.fa-google-play::before { content: "\f3ab"; }
+.fa-instagram::before { content: "\f16d"; }
+.fa-instagram-square::before { content: "\e055"; }
+.fa-linkedin::before { content: "\f08c"; }
+.fa-linkedin-in::before { content: "\f0e1"; }
+.fa-paypal::before { content: "\f1ed"; }
+.fa-pinterest::before { content: "\f0d2"; }
+.fa-spotify::before { content: "\f1bc"; }
+.fa-square-facebook::before { content: "\f082"; }
+.fa-square-instagram::before { content: "\e055"; }
+.fa-square-twitter::before { content: "\f081"; }
+.fa-square-x-twitter::before { content: "\e61a"; }
+.fa-square-youtube::before { content: "\f431"; }
+.fa-stripe::before { content: "\f429"; }
+.fa-stripe-s::before { content: "\f42a"; }
+.fa-tiktok::before { content: "\e07b"; }
+.fa-twitter::before { content: "\f099"; }
+.fa-twitter-square::before { content: "\f081"; }
+.fa-x-twitter::before { content: "\e61b"; }
+.fa-youtube::before { content: "\f167"; }
+.fa-youtube-square::before { content: "\f431"; }
